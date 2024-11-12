@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: srivalliavala7/frontend:v1
+        image: joindevops/frontend:v1
         resources:
           requests:
             cpu: 100m
